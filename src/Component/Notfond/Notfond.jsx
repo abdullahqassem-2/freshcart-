@@ -3,7 +3,8 @@ import style from './Notfond.module.css'
 
 export default function Notfond() {
 
-}
+
 return<>
 
 </>
+}
